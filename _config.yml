@@ -9,25 +9,26 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone: Asia/Shanghai
+timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: mbcpulse # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Smart Blogging # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  MBC Pulse is a blog focused on blogging, digital skills,
+  and practical guides for beginners.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://mbcpulse.com"
+url: #"https://mbcpulse.com"
 baseurl: ""
 
 github:
-  username: github_username # change to your GitHub username
+  username: mbcpulse # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -152,7 +153,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+# baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -226,3 +227,4 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
